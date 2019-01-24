@@ -1,0 +1,4 @@
+Network	Version	Year
+VGG	19	2014
+VGG	16-4x pruned	2017
+Inception	v1	2014

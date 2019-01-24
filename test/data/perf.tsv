@@ -1,0 +1,5 @@
+Network	Version	Dataset	ErrorRate
+VGG	19	ImageNet	7.32
+VGG	19	Caltech-256	14.9
+Inception	v1	ImageNet	6.67
+SuperVision	?	ImageNet	16.4
